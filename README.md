@@ -23,6 +23,10 @@ You can install the required libraries using `./setup.py` file.
 
 The example data can be sourced from https://jsonplaceholder.typicode.com/ or you can replace the data source with your own.
 
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 ## Contributor
 
     Abdul - Initial work
